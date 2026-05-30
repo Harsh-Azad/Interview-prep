@@ -104,4 +104,22 @@
 
 | Topic | Primer | Company Prep | Folder | Date Covered |
 |-------|--------|--------------|--------|--------------|
-| *(populated by /jd-prep and /interview-round)* | | | | |
+| Large Language Models — LLMs | AI-ML & Gen AI | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| RAG — Retrieval-Augmented Generation | AI-ML & Gen AI | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| Prompt Engineering | AI-ML & Gen AI | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| AI Evaluation & Benchmarks | AI-ML & Gen AI | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| MLOps & Model Deployment | AI-ML & Gen AI | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| Transformers & Attention Mechanism | AI-ML & Gen AI | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| Fine-tuning & PEFT | AI-ML & Gen AI | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| Docker & Containerization | DevOps | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| Kubernetes Orchestration | DevOps | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| CI/CD Pipelines | DevOps | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| Monitoring & Observability | DevOps | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| Logging & Distributed Tracing | DevOps | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| Message Queues & Event-Driven Architecture | System Design | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| Microservices vs Monolith | System Design | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| API Design (REST, GraphQL, gRPC) | System Design | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| SQL vs NoSQL | DBMS | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| Process vs Thread | OS | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| HTTP / HTTPS / HTTP2 / HTTP3 | Computer Networks | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
+| WebSockets & Long Polling | Computer Networks | BMW-AI-Engineer | `companies/BMW-AI-Engineer/` | — |
