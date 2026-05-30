@@ -96,3 +96,12 @@
 - [ ] Cloud Providers Fundamentals (VPC, IAM, object storage, managed services)
 - [ ] Service Mesh (Istio, sidecar proxy, mTLS, traffic policies)
 - [ ] DevSecOps Basics (SAST, DAST, secrets management, SBOM)
+
+---
+
+## Company Prep Cross-Reference
+*When a topic is studied as part of a company-specific prep, log it here. Also check the box in the primer section above.*
+
+| Topic | Primer | Company Prep | Folder | Date Covered |
+|-------|--------|--------------|--------|--------------|
+| *(populated by /jd-prep and /interview-round)* | | | | |
