@@ -1,15 +1,21 @@
 # /jd-prep — Job Description Analyzer & Prep Setup
 
-**Usage:** `/jd-prep`  
-Paste a JD directly into the conversation (or attach a file), then invoke this skill.  
-Creates a fully structured company prep folder and roadmap.
+**Usage:** `/jd-prep <company-slug>`  
+**Example:** `/jd-prep BMW-AI-Engineer`
+
+**IMPORTANT — Context hygiene rule:**  
+Do NOT ask the user to paste the JD in chat. Read it from disk instead:  
+`companies/[company-slug]/JD-raw.md`  
+If that file doesn't exist or still contains `[PASTE JD HERE]`, respond:  
+> "JD not found. Run `/jd-new [slug]` first, paste the JD into `companies/[slug]/JD-raw.md`, then re-run `/jd-prep [slug]`."  
+Only proceed once the file has real content. Never echo the full JD back to the conversation — work from it silently.
 
 ---
 
 ## Instructions
 
 ### Step 1 — Extract JD Intelligence
-Parse the JD the user has provided in the conversation. Extract and structure:
+Read `companies/[company-slug]/JD-raw.md` silently. Extract and structure (keep in working memory only — do not print the raw JD):
 
 **Company & Role**
 - Company name (clean, no spaces — e.g., `Google`, `Stripe`, `MorganStanley`)
